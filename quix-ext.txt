@@ -1,22 +1,16 @@
 > This is a Quix Command File
-
 >
-
 > For the syntax of this file, please refer to http://quixapp.com/syntax/
-
 >
-
 > This is my personal Quix Command File
-
 > 
-
 > Author: Quoud T.
-
 > Email: quoudten@gmail.com
 >
-
 @Location
-
 @Commands associated with location based services.
-
 gpsc        javascript:void(prompt('',gApplication.getMap().getCenter()));    Get GPS Coordinates from Google Maps
+
+@People
+@Commands associated with people (i.e. Google Contact, Facebook Friends, Twitter Users, etc...).
+gmc         https://mail.google.com/mail/u/0/?shva=1#contacts/search/%s     Gmail Contacts Search
