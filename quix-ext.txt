@@ -1,0 +1,22 @@
+> This is a Quix Command File
+
+>
+
+> For the syntax of this file, please refer to http://quixapp.com/syntax/
+
+>
+
+> This is my personal Quix Command File
+
+> 
+
+> Author: Quoud T.
+
+> Email: quoudten@gmail.com
+
+
+@Location
+
+@Commands associated with location based services.
+
+gpsc        javascript:void(prompt('',gApplication.getMap().getCenter()));    Get GPS Coordinates from Google Maps
