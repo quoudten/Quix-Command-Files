@@ -7,6 +7,9 @@
 > Author: Quoud T.
 > Email: quoudten@gmail.com
 >
+@Basic
+goo         https://www.google.com/search?q=%s                                Alternative Google Search
+
 @Location
 @Commands associated with location based services.
 gpsc        javascript:void(prompt('',gApplication.getMap().getCenter()));    Get GPS Coordinates from Google Maps
