@@ -20,4 +20,4 @@ gmc         https://mail.google.com/mail/u/0/?shva=1#contacts/search/%s     Gmai
 
 @Getting Things Done (GTD)
 @Commands associated with productivity and smooth workflow.
-sp          script:https://raw.github.com/gist/d38f5fcdfab2dc61caa9/83ef244bfef8b982c0bef4fc13823b46adb188d4/spring.js                 Clip to Springpad
+sp          script:https://raw.github.com/gist/d38f5fcdfab2dc61caa9/5c75d3ca196fa6014ee96979503f3888ce6a137b/spring.js                 Clip to Springpad
