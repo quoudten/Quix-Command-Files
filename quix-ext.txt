@@ -18,6 +18,9 @@ gpsc        javascript:void(prompt('',gApplication.getMap().getCenter()));    Ge
 @Commands associated with people (i.e. Google Contact, Facebook Friends, Twitter Users, etc...).
 gmc         https://mail.google.com/mail/u/0/?shva=1#contacts/search/%s     Gmail Contacts Search
 
+@Security
+lp          script:https://raw.github.com/gist/14dd0aa1993271ce39e9/7057c2c5e294dbbbeadd3aa55ed114101b3748a9/lpfill.js    LastPass Autofill
+
 @Getting Things Done (GTD)
 @Commands associated with productivity and smooth workflow.
 sp          script:https://raw.github.com/gist/d38f5fcdfab2dc61caa9/5c75d3ca196fa6014ee96979503f3888ce6a137b/spring.js                 Clip to Springpad
