@@ -18,6 +18,9 @@ gpsc        javascript:void(prompt('',gApplication.getMap().getCenter()));    Ge
 @Commands associated with people (i.e. Google Contact, Facebook Friends, Twitter Users, etc...).
 gmc         https://mail.google.com/mail/u/0/?shva=1#contacts/search/%s     Gmail Contacts Search
 
+@Food
+str         http://find.publicradio.org/search?site=spt&client=spt&proxystylesheet=spt&filter=p&access=p&output=xml_no_dtd&q=%s&searchButton=Search    Search The Splendid Table
+
 @Security
 lp          script:https://raw.github.com/gist/14dd0aa1993271ce39e9/7057c2c5e294dbbbeadd3aa55ed114101b3748a9/lpfill.js    LastPass Autofill
 
