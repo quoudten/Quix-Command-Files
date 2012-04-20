@@ -27,3 +27,6 @@ lp          script:https://raw.github.com/gist/14dd0aa1993271ce39e9/7057c2c5e294
 @Getting Things Done (GTD)
 @Commands associated with productivity and smooth workflow.
 sp          script:https://raw.github.com/gist/d38f5fcdfab2dc61caa9/5c75d3ca196fa6014ee96979503f3888ce6a137b/spring.js                 Clip to Springpad
+
+@Career
+clj         http://seattle.craigslist.org/search/jjj?query=%s&srchType=A      Craigslist Job Search
