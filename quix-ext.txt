@@ -9,6 +9,7 @@
 >
 @Basic
 goo         https://www.google.com/search?q=%s                                Alternative Google Search
+ddg         https://duckduckgo.com/?q=%s                                      DuckDuckGo Search
 
 @Location
 @Commands associated with location based services.
